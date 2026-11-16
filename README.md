@@ -36,7 +36,7 @@ A responsive financial dashboard built with Next.js, TypeScript, and Recharts.
 
 A full-stack resume analysis application featuring ATS scoring and semantic skill matching, built with Next.js and NestJS.
 
-[View Repository](https://github.com/afraalmaci/ATS-resume-optimizer)
+[View Repository](https://github.com/afraalmaci/ATS-resume-optimizer) · [Live Demo](https://ats.2-29-141-47.sslip.io)
 
 ### Node.js Task Manager
 
