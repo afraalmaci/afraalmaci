@@ -26,20 +26,14 @@ I build responsive web and mobile applications using **React, TypeScript, and No
 
 ## Featured Projects
 
-### Finance Dashboard
+### BasketWise
 
-A responsive financial dashboard built with Next.js, TypeScript, and Recharts.
+Splits a grocery list across supermarkets and plans the bike or walking route between them, so you can see whether a second store is worth the detour. Route-aware optimizer, dynamic-programming pack selection and fuzzy product search, built with Java 21, Spring Boot, PostgreSQL, React and TypeScript. Self-hosted with Docker and Caddy, CI on GitHub Actions.
 
-[View Repository](https://github.com/afraalmaci/finance-dashboard) · [Live Demo](https://finance-dashboard-mu-green.vercel.app/)
+[View Repository](https://github.com/afraalmaci/basketwise) · [Live Demo](https://basketwise.2-29-141-47.sslip.io)
 
 ### ATS Resume Optimizer
 
-A full-stack resume analysis application featuring ATS scoring and semantic skill matching, built with Next.js and NestJS.
+Upload a resume and a job ad to see which skills match, which are missing, and an ATS-style score. Skills are extracted by Google Gemini with a rule-engine fallback, then scored by deterministic code. Built with Next.js, NestJS and TypeScript, self-hosted with Docker and Caddy.
 
 [View Repository](https://github.com/afraalmaci/ATS-resume-optimizer) · [Live Demo](https://ats.2-29-141-47.sslip.io)
-
-### Node.js Task Manager
-
-A REST API for task management with JWT authentication, built using Node.js, Express, Sequelize, and PostgreSQL.
-
-[View Repository](https://github.com/afraalmaci/task-manager-nodejs)
